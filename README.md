@@ -5,64 +5,23 @@
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+- Email: ljw71645877@gmail.com
+- GitHub: [github.com/dnfkdjf](https://github.com/dnfkdjf)
 
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+이론을 실제로 구현하는 과정에서 배우는 즐거움을 아는, 끈기 있고 책임감 있는 엔지니어 지망생입니다.
 ```
-
-## 회사경력
-- [당근](https://about.daangn.com/) 백엔드 엔지니어 (2025 ~ 현재)
-- [카카오 모빌리티](https://www.kakaomobility.com/) 안드로이드 엔지니어 (2021 ~ 2024)
-- [스타일쉐어](https://stylesha.re) 안드로이드 엔지니어 (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/) 안드로이드 엔지니어 (2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr) 안드로이드 엔지니어 (2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
-
-## 대외활동
-- 카카오 테크캠퍼스 안드로이드 멘토 (2024)
-- 네이버 부스트캠프 안드로이드 멘토 (2023)
-- [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
-- 네이버 부스트캠프 코드 리뷰어(2021)
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 자퇴(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
-
-## 오픈소스 기여
-
-### googlemaps/android-maps-compose
-- [state 오인 사용성이 있는 함수 deprecate 및 개선된 신규 함수 추가](https://github.com/googlemaps/android-maps-compose/pull/638)
-
-### airbnb/mavericks
-- [Compose에서 viewModel scope를 커스텀하게 잡을경우 생기는 버그 수정](https://github.com/airbnb/mavericks/pull/712)
-
-### Adambl4/mirakle
-- [안드로이드 리모트 빌드 환경에서 hostname 변환이 잘못되고 한글이 깨지는 이슈 수정](https://github.com/Adambl4/mirakle/pull/123)
-
-### Sonatype/nexus directjngine
-- [파일 경로에 따라 디버그 유틸이 꼬이는 버그 수정 PR](https://github.com/sonatype/directjngine/pull/21)
-
-### PhotoEditor
-- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
-
-### TedPermission
-- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
-- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
+-복주초등학교 졸업 (2009~2014)
+-경덕중학교 졸업 (2015~2017)
+-중앙고등학교 졸업 (2018~2020)
+-광운대 3학년 재학중 ( ~2025)
 
 
 ## 사용 기술
-- ~Backend: Kotlin Spring, Python FastAPI~
-- ~Android~
-- ~Web: React, Tailwind~
-- 더이상 기술과 분야를 가리지 않고, 모든 분야의 엔지니어링을 합니다.
-- VibeCoding Lover
+ Visual, Python, Sigwin, Aduino
+
 
 ## 수상 경력
 취미로 해커톤을 종종 나가곤 합니다. <br/>
